@@ -1,7 +1,8 @@
 # [GatsbyJS Multiverse](https://appseed.us/apps/gatsbyjs/gatsby-html5up-multiverse)
 
 Open-source app built with GatsbyJS on top of HTML5Up Multiverse design.
-**Forked from [this](https://github.com/anubhavsrivastava/gatsby-starter-multiverse) project.**
+
+> Originally coded by **[Anubhav Srivastava](https://github.com/anubhavsrivastava/)**.
 
 <br />
 
